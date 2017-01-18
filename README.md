@@ -42,7 +42,7 @@ Nama : Dhea Ayu Anggraini
 
 Kelas : XI RPL 3
 
-No.absen : 07
+No Urut : 07
 
 NIS : 4696/1415.070
 
